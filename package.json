@@ -1,0 +1,23 @@
+{
+  "name": "ranglo",
+  "version": "1.0.0",
+  "description": "Interactive Messanger Bot searching for funny photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaumilP/ranglo.git"
+  },
+  "keywords": [
+    "bot",
+    "pics"
+  ],
+  "author": "Saumil Patel",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SaumilP/ranglo/issues"
+  },
+  "homepage": "https://github.com/SaumilP/ranglo#readme"
+}
