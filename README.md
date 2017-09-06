@@ -11,5 +11,5 @@ _TBD_
 ### Installation
 _TBD_
 
-### Configuration
+### Setup
 _TBD_
