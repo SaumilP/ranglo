@@ -6,7 +6,9 @@ Current version `v1` only accepts message from user.
 
 Conversation with bot can start [here](https://m.me/RangloBot).
 
-![Alt text](https://raw.githubusercontent.com/SaumilP/ranglo/master/docs/v1/snapshots/ranglo.png =320x480)
+### Snippet
+
+<img src="https://raw.githubusercontent.com/SaumilP/ranglo/master/docs/v1/snapshots/ranglo.png" width="200" height="320" />
 
 ### Pre-Requirements
 
