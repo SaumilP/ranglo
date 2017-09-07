@@ -4,11 +4,9 @@ Interactive Facebook Messanger bot for check facebook messenger platform and cha
 
 Current version `v1` only accepts message from user.
 
-### Bot
-
 Conversation with bot can start [here](https://m.me/RangloBot).
 
-[logo]: https://github.com/SaumilP/ranglo/raw/master/docs/v1/snapshots/ranglo.png "RangloBot_v1"
+![Alt text](https://raw.githubusercontent.com/SaumilP/ranglo/master/docs/v1/snapshots/ranglo.png?raw=true "RangloBot_v1")
 
 ### Pre-Requirements
 
