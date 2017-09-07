@@ -2,10 +2,13 @@
 -----
 Interactive Facebook Messanger bot for check facebook messenger platform and chatbot mechanism.
 
-Current version v1 only accepts message from user.
+Current version `v1` only accepts message from user.
 
-### Bot Link
+### Bot
+
 Conversation with bot can start [here](https://m.me/RangloBot).
+
+[logo]: https://github.com/SaumilP/ranglo/raw/master/docs/v1/snapshots/ranglo.png "RangloBot_v1"
 
 ### Pre-Requirements
 
@@ -27,6 +30,7 @@ For testing and economic reasons, [heroku](https://www.heroku.com/) has been cho
     ```bash
     shell> heroku login
     ```
+
 * Command to deploy bot to heroku.
     ```bash
     shell> git heroku push master
